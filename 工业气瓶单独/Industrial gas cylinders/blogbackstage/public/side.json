@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "id":121231,
+        "name": "单位登记",
+        "children": [
+          {
+            "name": "监管机构",
+            "path": "/unit/unit/supervise",
+            "children":""
+          },
+          {
+            "name": "制造单位",
+            "path": "/unit/unit/made",
+            "children":""
+          },
+          {
+            "name": "充装单位",
+            "path": "/unit/unit/filling",
+            "children":""
+          },
+          {
+            "name": "使用单位",
+            "path": "/unit/unit/use",
+            "children":""
+          },
+          {
+            "name": "检验单位",
+            "path": "/unit/unit/checkout",
+            "children":""
+          },
+          {
+            "name": "配送单位",
+            "path": "/unit/unit/delivery",
+            "children":""
+          }
+        ]
+      },
+      {
+        "id":1231,
+        "name": "账号管理",
+        "path":"/system/user",
+        "children":""
+      },
+      {
+        "id":7879,
+        "name": "角色管理",
+        "path": "/system/role",
+        "children":""
+      },
+      {
+        "id":1566,
+        "name": "日志管理",
+        "path": "/warning/system/operate",
+        "children":""
+      },
+      {
+        "id":123667,
+        "name": "硬件配置",
+        "path": "/system/hardware",
+        "children":""
+      }
+    ]
+  }
